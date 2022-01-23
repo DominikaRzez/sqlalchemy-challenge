@@ -4,7 +4,7 @@
 <li>app.py file - Flask API,</li>
 <li>3 Jupyter Notebooks</li>
 <br>
-<p>The first Jupyter Notebook file - climate_analysis.ipynb - conatines the main required part of the homework. It is a basic climate analysis and data exploration of the climate database, including:</p>
+<p>The first Jupyter Notebook file - climate_analysis.ipynb - contains the main, required part of the homework. It is a basic climate analysis and data exploration of the climate database, including:</p>
 <ul>
   <li>Retrieval of the last 12 months of precipitation data</li>
   <li>Graph presenting the results</li>
