@@ -1,5 +1,5 @@
 <h1>SQLAlchemy Challenge</h1>
-<ul>The following repository containes:</ul>
+<ul>The following repository contains:</ul>
 <li>Resources folder with the sqlite and csv files,</li>
 <li>app.py file - Flask API,</li>
 <li>3 Jupyter Notebooks</li>
