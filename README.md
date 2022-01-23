@@ -13,7 +13,7 @@
   <li>Histogram displaying the results</li>
  </ul>
 <br>
-<p>The second Jupyter Notebook - temperature_analysis_bonus1.ipynb - includes temperature analysis for the months of June and December at all stations across all available years and the t-test to determine whether the difference in the means is statistically meaningfull.</p>
+<p>The second Jupyter Notebook - temperature_analysis_bonus1.ipynb - includes temperature analysis for the months of June and December at all stations across all available years and the t-test to determine whether the difference in the means is statistically meaningful.</p>
 <br>
 <p>The third Jupyter Notebook - temperature_analysis_bonus2.ipynb - contains the 2nd bonus task:
   <ul>
