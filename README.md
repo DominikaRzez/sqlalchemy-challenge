@@ -8,7 +8,7 @@
 <ul>
   <li>Retrieval of the last 12 months of precipitation data</li>
   <li>Graph presenting the results</li>
-  <li>Finding the most activate station</li>
+  <li>Finding the most active station</li>
   <li>Retrieval of the last 12 months of temperature observation data for this station</li>
   <li>Histogram displaying the results</li>
  </ul>
